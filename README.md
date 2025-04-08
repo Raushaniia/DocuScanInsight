@@ -1,1 +1,1 @@
-# ComparationTextClassificationAlgorithms-
+# DocuScanInsight
