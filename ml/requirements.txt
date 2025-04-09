@@ -1,0 +1,1 @@
+tensorflow\nkeras\nnumpy\nopencv-python\npandas\nscikit-learn\nmatplotlib\npytorch\nfastapi\n
